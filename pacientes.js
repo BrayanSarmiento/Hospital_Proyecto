@@ -23,5 +23,4 @@ function mostrarPacientes(){
         celdaEspecialidad.textContent = paciente.especialidad 
     });
 }
-
 mostrarPacientes()

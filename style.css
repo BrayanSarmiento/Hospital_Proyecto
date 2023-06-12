@@ -6,7 +6,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-color: #1b1a1a;
-    color: #f1e6e6;
+    color: #f0ebeb;
     margin: 5;
     padding: 0;
 }
@@ -40,7 +40,7 @@ select {
     width: 100%;
     margin-bottom: 15px;
     padding: 10px;
-    border: 2px solid #ccc;
+    border: 2px solid #110e0e;
     border-radius: 4px;
     font-size: 16px;
     font-family: sans-serif;
@@ -61,11 +61,11 @@ input[type="button"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #3e8e41;
+    background-color: #0e110e;
 }
 
 span {
-    color: rgb(248, 244, 244);
+    color: rgb(26, 18, 18);
 }
 
 /* Estilos CSS para las tablas */
@@ -81,7 +81,7 @@ td {
     padding: 10px;
     text-align: center;
     border: 5px solid #e4e7e4;
-    background-color: #0a0f0a;
+    background-color: #0e0f0e;
 
 
 }

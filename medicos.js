@@ -24,5 +24,4 @@ function mostrarMedicos(){
         celdaCorreo.textContent = medico.correo
     });
 }
-
 mostrarMedicos()
